@@ -1,0 +1,3 @@
+﻿[2026-10-11 20:25:00] [INFO] Checking DLQ for unhandled order messages
+[2026-10-11 20:25:05] [ERROR] Message ID #99011 dropped after 5 failed retries. Reason: Target inventory service offline
+[2026-10-11 20:25:08] [ERROR] Message ID #99012 payload validation error: Missing field 'customer_email'

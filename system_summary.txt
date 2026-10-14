@@ -1,0 +1,1 @@
+﻿Server Ubuntu 22.04 LTS. Checked by Admin: OK. No error found in initial audit.

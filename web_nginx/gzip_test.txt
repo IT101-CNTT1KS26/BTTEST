@@ -1,0 +1,1 @@
+﻿Testing gzip compression performance for static assets.

@@ -1,0 +1,4 @@
+﻿Table,Rows,DiskMB
+users,1500000,450
+orders,8900000,2400
+audit_logs,35000000,12000

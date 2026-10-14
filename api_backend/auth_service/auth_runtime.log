@@ -1,0 +1,4 @@
+﻿2026-10-11 20:15:00 [INFO] Token verified for user uid_9821
+2026-10-11 20:15:33 [ERROR] Token verification failed: Signature has expired
+2026-10-11 20:16:01 [ERROR] Redis session store unreachable: ConnectionRefused 6379
+2026-10-11 20:16:45 [INFO] Fallback to in-memory session cache

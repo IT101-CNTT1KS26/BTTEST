@@ -1,0 +1,1 @@
+﻿Redis cluster configured on 10.0.0.15:6379 with 3 replicas.

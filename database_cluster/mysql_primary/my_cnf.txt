@@ -1,0 +1,4 @@
+﻿[mysqld]
+max_connections = 500
+innodb_buffer_pool_size = 4G
+query_cache_type = 0

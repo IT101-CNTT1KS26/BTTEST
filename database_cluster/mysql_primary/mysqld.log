@@ -1,0 +1,4 @@
+﻿2026-10-11T20:20:01.123456Z 0 [System] [MY-010116] [Server] mysqld starting as process 1024
+2026-10-11T20:22:18.991211Z 2 [ERROR] [MY-011953] [InnoDB] Page [page id: space=4, page number=19] log sequence number 283120 is in the future
+2026-10-11T20:23:05.112233Z 3 [ERROR] [MY-010735] [Server] Out of memory (Needed 2097152 bytes)
+2026-10-11T20:24:00.000000Z 0 [Warning] [MY-010055] [Server] IP address '192.168.1.99' could not be resolved: getnameinfo() error

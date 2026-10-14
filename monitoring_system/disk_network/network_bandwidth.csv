@@ -1,0 +1,4 @@
+﻿Time,Interface,Rx_Mbps,Tx_Mbps,Drops
+20:25,eth0,850,920,412
+20:26,eth0,890,980,890
+20:27,eth0,910,990,1240

@@ -1,0 +1,4 @@
+﻿[2026-10-11 20:18:00] [INFO] Transaction TXN-10023 created - Amount: 500000 VND
+[2026-10-11 20:18:22] [ERROR] Third-party banking API returned 504 Gateway Timeout for TXN-10023
+[2026-10-11 20:19:00] [ERROR] Rollback transaction TXN-10023 failed: Database deadlock detected
+[2026-10-11 20:20:12] [INFO] Retry queue scheduled for TXN-10023

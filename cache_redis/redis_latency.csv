@@ -1,0 +1,4 @@
+﻿Command,Count,AvgLatencyMs,MaxLatencyMs
+GET,145000,0.8,4.2
+SET,92000,1.1,12.5
+HGETALL,12000,5.4,120.8

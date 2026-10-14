@@ -1,0 +1,4 @@
+﻿[2026-10-11 02:00:00] [INFO] mysqldump starting for database: prod_ecommerce
+[2026-10-11 02:18:40] [INFO] Dump complete: prod_ecommerce_20261011.sql.gz (14.2 GB)
+[2026-10-11 02:19:00] [INFO] Uploading to S3 bucket s3://company-backups/db/
+[2026-10-11 02:22:10] [ERROR] S3 Upload failed: Connection reset by peer after 8.4 GB

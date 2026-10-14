@@ -1,0 +1,3 @@
+﻿QueueID,Sender,Recipient,Attempts,Status
+8FA31201B,noreply@example.com,user99@gmail.com,3,Deferred
+91B28392C,billing@example.com,acc@company.com,1,Sent

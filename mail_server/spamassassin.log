@@ -1,0 +1,3 @@
+﻿Oct 11 20:31:00 mail spamd[1840]: spamd: processing message <A9102@unknown> for mail:5001
+Oct 11 20:31:02 mail spamd[1840]: spamd: identified spam (14.2/5.0) in 2.1 seconds
+Oct 11 20:31:10 mail spamd[1840]: ERROR spamd: child timeout after 30 seconds processing message

@@ -1,0 +1,4 @@
+﻿Domain,ExpiryDays,AutoRenew
+api.example.com,2,TRUE
+auth.example.com,45,TRUE
+cdn.example.com,120,FALSE

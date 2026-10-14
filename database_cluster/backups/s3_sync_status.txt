@@ -1,0 +1,1 @@
+﻿AWS S3 CLI version: 2.13.12. Region: ap-southeast-1. Status: Sync incomplete due to timeout.

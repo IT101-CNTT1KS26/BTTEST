@@ -1,0 +1,4 @@
+﻿2026-10-11 20:21:00 [INFO] Order #5541 created successfully. Items: 3
+2026-10-11 20:21:40 [INFO] Inventory reserved for Order #5541
+2026-10-11 20:22:15 [ERROR] Failed to send push notification to user 4410: FCM quota exceeded
+2026-10-11 20:23:00 [INFO] Order #5542 queued for shipping

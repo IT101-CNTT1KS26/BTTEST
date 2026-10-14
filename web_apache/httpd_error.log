@@ -1,0 +1,3 @@
+﻿[Sun Oct 11 20:12:10 2026] [ERROR] [client 10.0.1.30] AH01630: client denied by server configuration: /var/www/admin
+[Sun Oct 11 20:13:00 2026] [NOTICE] Graceful restart requested, doing restart
+[Sun Oct 11 20:13:05 2026] [ERROR] AH00020: Configuration Failed: Port 80 already in use

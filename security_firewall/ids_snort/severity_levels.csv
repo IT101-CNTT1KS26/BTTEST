@@ -1,0 +1,4 @@
+﻿Level,Name,Action
+1,Critical,Block IP & SMS Alert
+2,High,Log & Email
+3,Medium,Log only

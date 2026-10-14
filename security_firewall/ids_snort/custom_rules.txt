@@ -1,0 +1,1 @@
+﻿alert tcp any any -> $HOME_NET 80 (msg:"Possible SQLi"; content:"union select"; nocase; sid:1000001;)

@@ -1,0 +1,4 @@
+﻿id,status,currency,amount
+1,success,VND,100000
+2,error,VND,250000
+3,pending,USD,15

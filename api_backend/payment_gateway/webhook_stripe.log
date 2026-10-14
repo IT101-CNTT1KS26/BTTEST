@@ -1,0 +1,2 @@
+﻿[2026-10-11 20:10:00] [INFO] Webhook received: charge.succeeded
+[2026-10-11 20:14:15] [ERROR] Signature verification failed: Webhook secret mismatch

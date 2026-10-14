@@ -1,0 +1,4 @@
+﻿Checking certificate chain for api.example.com...
+depth=0 CN = api.example.com
+verify return:1
+[ERROR] Certificate signature will become invalid on: 2026-10-13 00:00:00 UTC

@@ -1,0 +1,4 @@
+﻿Oct 11 20:29:10 mail postfix/smtpd[4912]: connect from unknown[198.51.100.24]
+Oct 11 20:29:15 mail postfix/smtpd[4912]: NOQUEUE: reject: RCPT from unknown[198.51.100.24]: 554 5.7.1 Relay access denied;
+Oct 11 20:29:40 mail postfix/smtp[4918]: ERROR connect to mx.mailcorp.com[203.0.113.10]:25: Connection refused
+Oct 11 20:30:00 mail postfix/qmgr[1204]: 8FA31201B: from=<noreply@example.com>, size=4120, nrcpt=1 (queue active)

@@ -1,0 +1,4 @@
+﻿1:M 11 Oct 2026 20:27:40.100 * 10000 keys saved in DB on disk
+1:M 11 Oct 2026 20:28:10.500 # WARNING overcommit_memory is set to 0! Background save may fail under low memory condition.
+1:M 11 Oct 2026 20:29:00.200 # ERROR Can't save in background: fork: Cannot allocate memory
+1:M 11 Oct 2026 20:29:05.300 # ERROR OOM command not allowed when used memory > 'maxmemory'.

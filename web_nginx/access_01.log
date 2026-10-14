@@ -1,0 +1,3 @@
+﻿[2026-10-11 20:01:05] [INFO] GET /index.html 200 45ms 192.168.1.50
+[2026-10-11 20:01:15] [INFO] GET /static/logo.png 200 12ms 192.168.1.50
+[2026-10-11 20:02:00] [WARN] Slow response on /products/all: 1200ms

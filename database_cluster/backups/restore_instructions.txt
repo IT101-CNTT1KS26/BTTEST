@@ -1,0 +1,1 @@
+﻿In case of emergency restore, execute: gunzip < backup.sql.gz | mysql -u root -p prod_db
